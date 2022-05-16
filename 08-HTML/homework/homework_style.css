@@ -1,0 +1,35 @@
+body{
+            background-image: url("Imagenes/gatito.jpg");
+            background-repeat: no-repeat;
+            background-size: cover;
+            text-align: center;
+            margin-left: 20%;
+            margin-right: 20%;
+            
+}
+
+h1 {
+            color: green;
+}
+
+img {
+            height: 300px;
+            width: 400px;
+} 
+
+#thirdDiv {
+            height: 600px;
+            width: 500px;
+            background-color: lightblue;
+            padding: 50px;
+            border: 10px;
+            border-color: lightcoral;
+            border-style: dotted;
+            margin:5px
+            
+} 
+
+#spanID {
+            font-size: 18px;
+            margin: 50px;
+}
